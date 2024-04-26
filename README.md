@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I am setting up a repository so that I know how to do it again for future projects. I will be doing many different projects to further my learning in different programming languages.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+This is a Hello World program that acts as a introduction to using repositories for my projects.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +10,11 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Development Environment: VSCode
 
-{Describe the programming language that you used}
+Language: Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Google Gemini](https://gemini.google.com/app)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs/sourcecontrol/github)
